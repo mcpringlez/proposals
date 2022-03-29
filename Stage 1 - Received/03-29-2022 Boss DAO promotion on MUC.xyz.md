@@ -76,7 +76,7 @@ On the second day, the MUC.xyz will cover the topic of DAOs as they are becoming
 
 We want to show the already existing diversity, complexity and enormous potential of DAOs.
 
-We propose the Boss DAO utilizes an to be defined amount of ADA of treasury funds to be promoted at the DAO panel/session of the [MUC.xyz](http://muc.xyz/) or on a dedicated LCD display.
+We propose the Boss DAO utilizes a to be defined amount of ADA from the treasury funds to be promoted at the DAO panel/session of the [MUC.xyz](http://muc.xyz/) or on a dedicated LCD display.
 
 Not only for the Boss DAO this an excellent chance to increase its popularity but also for the whole cardano ecosystem and the CNFT space to get promoted.
 
