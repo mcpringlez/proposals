@@ -74,7 +74,7 @@ We are in talks with the Bavarian government for supporting us and chances are i
 
 On the second day, the MUC.xyz will cover the topic of DAOs as they are becoming the democratic structure of future organisations. 
 
-We want to show to show the already existing diversity, complexity and enormous potential of DAOs.
+We want to show the already existing diversity, complexity and enormous potential of DAOs.
 
 We propose the Boss DAO utilizes 2,500 ADA of treasury funds to be promoted at the DAO panel/session of the [MUC.xyz](http://muc.xyz/) or an dedicated LCD displays.
 
