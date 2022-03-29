@@ -1,4 +1,4 @@
-03-29-2022: cairol - Boss DAO promotion on MUC.xyz
+03-29-2022: cairol - Boss DAO promotion at MUC.xyz
 
 ## Proposal Author(s)
 Discord Identity: cairol#6787
