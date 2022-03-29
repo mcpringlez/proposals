@@ -27,14 +27,13 @@ We propose the Boss DAO utilizes 12,000 ADA of treasury funds to sweep the Lazy 
 
 **Proposal Details**
 
-The proposal of sweeping the Llama and Serum-X floor with 10,000 ADA has multiple potential benefits to Boss Dao shareholders including, but not limited to, the following:
+The proposal of sweeping the Llama and Serum-X floor with 12,000 ADA has multiple potential benefits to Boss Dao shareholders including, but not limited to, the following:
 
  - The diversification of Boss DAOs portfolio. We all are supporters of BCRC and believe in its future, but diversification of an investment portfolio is a key safeguard and in line with best practices. Lazy Llamas is a project with exceptional, high-quality art, a solid roadmap, and well-written Lazy Paper. It has proven to be a top CNFT project since its mint ended in early January 2022.
  - The treasury would grow from the profits obtained from the Serum and Llama anticipated price increases as we approach the next three rounds of Llama mutations over the next few months: T2 (undead Llamas), T1 (robo Llamas), and Mystery Serum mutations.
 	
 	 - For example, the Lazy Llama floor rose from 300 to 450 ADA just prior to the least rare mutation lab, T3 (Biomutant Llamas), opening on Feb. 27th , 2022. The Serum floor also rose from 200 ADA to 400 ADA during this time. This is approximately a **50%** and **100%** increase in price across Llamas and Serums, respectively.
 	 - As such, Boss DAO can vote on selling a portion of the Lazy Llama and/or Serum-X holdings as we approach each mutation opening date to maximize profit.
-	 
 	
 	 - [All time average Llama price, note the increase in price that corresponds to T3 mutation lab opening.](https://cnftanalytics.io/php/searchStats.php/?search=Lazy%20Llamas,&search_type=2,&chart_type=2&time_range=trAllSelector)
 	 - [All time average price for Serum-X, note the price increase that corresponds to the opening date of the T3 mutation lab.](https://cnftanalytics.io/php/searchStats.php/?search=Lazy%20Llamas%20Serum-X,&search_type=2,&chart_type=2&time_range=trAllSelector)
