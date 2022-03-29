@@ -1,5 +1,3 @@
-03-29-2022: cairol - Boss DAO promotion at MUC.xyz
-
 ## Proposal Author(s)
 Discord Identity: cairol#6787
 
@@ -11,7 +9,7 @@ on behalf of the MUC.xyz organizers
 
 ## Proposal Summary
 
-We propose the Boss DAO utilizes 2,500 ADA of treasury funds to be promoted at the DAO panel of the [MUC.xyz](http://muc.xyz/), one of Germany’s first ever NFT events.
+We propose the Boss DAO utilizes a to be defined amount of ADA of treasury funds to be promoted at the DAO panel of the [MUC.xyz](http://muc.xyz/), one of Germany’s first ever NFT events.
 
 ## What is MUC.xyz?
 
@@ -32,35 +30,32 @@ we are planning to have the event in the Haus der Kunst (House of Art) which is 
 
 #### DAY 1 for the public
 
-> 0900-1000 Reception
-
-> 1000-1030 Welcome Speeches
-
-> 1030-1200 Around the block (covering the basics)
-
-> 1200-1330 Lunch
-
-> 1330-1630 what about NFTs
+- 0900-1000 Reception
+- 1000-1030 Welcome Speeches
+- 1030-1200 Around the block (covering the basics)
+- 1200-1330 Lunch
+- 1330-1630 what about NFTs
 
 #### DAY 2 deep dive
 
-> Anchor talks mixed with a ‘call for topics’ on twitter
-
-> Web3 (metaverse, licensing, DAO, security)
-
-> NFT quo vadis (gaming, fashion, food, art, tax EU, regulation)
+- Anchor talks mixed with a ‘call for topics’ on twitter
+- Web3 (metaverse, licensing, DAO, security)
+- NFT quo vadis (gaming, fashion, food, art, tax EU, regulation)
 
 ### satellite events
 
-> NFT exhibitions, hackathon, afterparty, cultural education for Munich visitors
+- NFT exhibitions
+- hackathon
+- afterparty
+- cultural education for Munich visitors
 
 ### budget and next steps
 
-> Finishing the homepage [MUC.xyz](http://muc.xyz/)
+1. Finishing the homepage [MUC.xyz](http://muc.xyz/)
 
-> Signing the lease for the event location
+2. Signing the lease for the event location
 
-> Promoting the event
+3. Promoting the event
 
 To provide an overview and a sense of the sizing of this project to reduce uncertainty:
 
