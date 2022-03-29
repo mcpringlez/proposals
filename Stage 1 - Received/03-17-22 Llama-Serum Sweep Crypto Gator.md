@@ -27,7 +27,7 @@ We propose the Boss DAO utilizes 12,000 ADA of treasury funds to sweep the Lazy 
 
 **Proposal Details**
 
-The proposal of sweeping the Llama and Serum-X floor with 10,000 ADA has multiple potential benefits to Boss Dao shareholders including, but not limited to, the following:
+The proposal of sweeping the Llama and Serum-X floor with 12,000 ADA has multiple potential benefits to Boss Dao shareholders including, but not limited to, the following:
 
  - The diversification of Boss DAOs portfolio. We all are supporters of BCRC and believe in its future, but diversification of an investment portfolio is a key safeguard and in line with best practices. Lazy Llamas is a project with exceptional, high-quality art, a solid roadmap, and well-written Lazy Paper. It has proven to be a top CNFT project since its mint ended in early January 2022.
  - The treasury would grow from the profits obtained from the Serum and Llama anticipated price increases as we approach the next three rounds of Llama mutations over the next few months: T2 (undead Llamas), T1 (robo Llamas), and Mystery Serum mutations.
