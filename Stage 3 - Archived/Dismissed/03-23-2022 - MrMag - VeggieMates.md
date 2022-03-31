@@ -1,5 +1,5 @@
 **Proposal Summary**
-I propose the Boss DAO utilizes $10K-20K ADA of treasury funds to sweep the VeggieMates floor in order to invest before their token $Greens and season 2 collection drops. No date for the drops have been announced yet but will soon.
+I propose the Boss DAO utilizes $15K ADA of treasury funds to sweep the VeggieMates floor in order to invest before their token $Greens and season 2 collection drops. No date for the drops have been announced yet but will soon.
 
 **Proposal Details**
 The primary use of $Greens will be to fuel the Virtually Made entertainment ecosystem (The brand behind the whole veggiemates project). $Greens will be the game currency in the VeggieMates vs. Junkies game which is a P2E game launching soon.
