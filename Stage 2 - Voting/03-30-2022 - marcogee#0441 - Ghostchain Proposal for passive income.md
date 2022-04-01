@@ -36,7 +36,7 @@ FreeRoam.IO is an upcoming marketplace set to launch any day.  While there are a
 
 **Soul Distribution**- A percentage of the Soul tokens will be distributed to users as a reward for trading on FreeRoam.  The more you use the site the more Soul you will receive!
 
-Many more features are in the works that won't be disclosed ahead of time to keep a competative advantage.  Once users start using the site they will see the benefit of the site and start
+Many more features are in the works that won't be disclosed ahead of time to keep a competative advantage.  Once users start using the site they will see the benefits of the site they will start to use FreeRoam as their home base which will increase the site's CNFT marketshare.
 
 What does the Boss DAO stand to gain?
 --------------------------------------------------------------------------
