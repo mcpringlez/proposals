@@ -31,22 +31,18 @@ After Freeroam launches, of course!
 Why?
 
 1) Lower Fees. 
-
 Boss DAO only pays 1.2% sales fees on Freeroam (due to the Boss DAO treasury holding a Legendary Ghostchain). Compare this to 2% on JPG.Store & 2.5% on CNFT.IO. As we grow as a DAO, it would be beneficial to min/max our margins.
 
 
 2) Grow the Boss DAO treasury by Maximizing Passive ADA
-
 Our investment in Ghostchain NFTs means the more sales volume on Freeroam, the higher the amount of quarterly ADA is deposited into the Boss DAO treasury.
 
 
 3) Earn $SOUL Token. Gain Influence.
-
 BOSS DAO earns $SOUL token by Buying/Selling on Freeroam. SOUL token is a deflationary token that will be used to vote on proposals on the Freeroam marketplace. Why is this so powerful? Our collective buying power as a DAO will quickly allow us to gain massive influence in steering the future of the Freeroam marketplace. Of course decisions will primarily be made to benefit Freeroam, but as an early adopter and member of the Freeroam Senate, decisions can also be heavily influenced in Boss DAO’s favor as well.
 
 
 4) Snowball Effect of Liquidity.
-
 Being the first DAO to make a decision like this and making it public to our partners and community members (so they can spread the word and follow suit) will catalyze a disruption in the markets that will pressure sellers to move listings to where we and our partners will buy. Don’t underestimate the power of our DAO’s influence. People looking to maximize their liquidity won’t risk missing out and will move their listings to Freeroam where we roam. As we start accruing a track record of action to back up this announcement, more and more people will move their listings to Freeroam and the market share will shift in our favor.
 
 
