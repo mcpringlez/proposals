@@ -44,11 +44,11 @@ Why?
 
 5) Cons - One potential drawback to taking this approach would be missing out on lowest possible prices across ALL marketplaces during sweeps. This is one thing we noticed during some of our early sweeps on JPG.Store. We swept on JPG.store but CNFT.Io had lower prices after a few purchases and we missed out on 5-10% savings on a couple purchases.
 
-Even though the short term effect of this situation is somewhat undesirable, think about the loud message we’ll be sending to sellers over the long term. Boss DAO is not alone in this. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to list? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
+6) Cons, Continued - Even though the short term effect of this situation is somewhat undesirable, think about the loud message we’ll be sending to sellers over the long term. Boss DAO is not alone in this. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to list? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
 
 
 Conclusion:
-A lot of individual investors and DAOs (including us) invest in the future potential of individual NFT projects. This proposal isn’t about one project, more so about leveraging our influence as a DAO in altering the CNFT market as a whole while maximizing our passive income going to the treasury. By voting YES for this proposal, not only will we choose accelerate our DAO’s growth, but we can gain a solid foothold in influencing the CNFT market as a whole. This “market-based” approach is a model every DAO will soon wish they adopted first.
+A lot of individual investors and DAOs (including us) invest in the future potential of individual NFT projects. This proposal isn’t about one project, more so about leveraging our influence as a DAO in altering the CNFT market as a whole while maximizing our passive income going to the treasury. By voting YES for this proposal, not only will we choose accelerate our DAO’s growth, but we can gain a solid foothold in influencing the CNFT market as a whole. This “market-based” approach is a strategy every DAO will soon wish they adopted first.
 
 
 Reference files:
