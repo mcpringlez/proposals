@@ -42,9 +42,11 @@ Why?
 4) Snowball Effect of Liquidity. - Being the first DAO to make a decision like this and making it public to our partners and community members (so they can spread the word and follow suit) will catalyze a disruption in the markets that will pressure sellers to move listings to where we and our partners will buy. Don’t underestimate the power of our DAO’s influence. People looking to maximize their liquidity won’t risk missing out and will move their listings to Freeroam where we roam. As we start accruing a track record of action to back up this announcement, more and more people will move their listings to Freeroam and the market share will shift in our favor.
 
 
-5) Cons - One potential drawback to taking this approach would be missing out on lowest possible prices across ALL marketplaces during sweeps. This is one thing we noticed during some of our early sweeps on JPG.Store. We swept on JPG.store but CNFT.Io had lower prices after a few purchases and we missed out on 5-10% savings on a couple purchases.
+Cons?
 
-6) Cons, Continued - Even though the short term effect of this situation is somewhat undesirable, think about the loud message we’ll be sending to sellers over the long term. Boss DAO is not alone in this. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to list? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
+1) One potential drawback to taking this approach would be missing out on lowest possible prices across ALL marketplaces during sweeps. This is one thing we noticed during some of our early sweeps on JPG.Store. We swept on JPG.store but CNFT.Io had lower prices after a few purchases and we missed out on 5-10% savings on a couple purchases.
+
+2) Even though the short term effect of this situation is somewhat undesirable, think about the loud message we’ll be sending to sellers over the long term. Boss DAO is not alone in this. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to list? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
 
 
 Conclusion:
