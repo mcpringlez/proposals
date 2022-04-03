@@ -12,7 +12,8 @@ Affiliation: Boss DAO \
 Roles: Holders
 
 ##Proposal Summary
-Boss DAO has an opportunity to compound its passive income potential and gain market-wide influence over the CNFT as a whole.
+First and foremost, thank you for taking the time to read through this unprecedented proposal. /
+Simply, Boss DAO has an opportunity to compound its passive income and gain market-wide influence over the CNFT market as a whole.
 
 
 ##Proposal Details
@@ -23,7 +24,7 @@ By concentrating ALL of our DAO’s sales and purchases onto Freeroam.io.
 
 ### Cost? 
 
-This will incur NO COST to the DAO; however, strong community engagement & understanding will help to accelerate the execution of our strategy, and thus will help accelerate the DAO's passive income. See [Strategy](#Strategy-and-Execution) below.
+This will incur ZERO monetary cost to the DAO, only action is necessary. Action is needed not only by DAO leadership, but by Boss DAO holders and community as well. Mass migration of listings to Freeroam will help to accelerate the [execution of our strategy](#Strategy-and-Execution).
 
 
 ### When?
