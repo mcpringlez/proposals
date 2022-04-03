@@ -15,7 +15,7 @@ Boss DAO has an opportunity to compound passive income and gain CNFT market-wide
 
 ### How? 
 
-By concentrating ALL of our DAO’s sales and purchases to Freeroam.io.
+By concentrating ALL of our DAO’s sales and purchases onto Freeroam.io.
 
 
 ### When?
