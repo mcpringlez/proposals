@@ -3,12 +3,18 @@ Date: 4/3/2022
 
 Author 1:
 Online Identity: quno_steve
+
 Affiliation: Boss DAO
+
 Role: Holder
+
+
 
 Additional Authors/Contributors:
 Online Identify (Sorted Alphabetically): CardanoShield, FloridaCrypto, KC3i83, mcpringles, Nottorious CDG, stinghastie
+
 Affiliation: Boss DAO
+
 Role: Holder
 
 ## Proposal Summary
