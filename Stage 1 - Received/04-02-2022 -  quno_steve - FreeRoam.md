@@ -13,7 +13,7 @@ Boss DAO has an opportunity maximize passive income and gain market-wide influen
 
 ## Proposal Details
 
-What?
+# What?
 
 Boss DAO has an opportunity to compound the value of its investment, for Free!
 
