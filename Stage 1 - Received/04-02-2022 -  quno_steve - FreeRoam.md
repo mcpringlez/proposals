@@ -24,7 +24,7 @@ By concentrating ALL of our DAO’s sales and purchases onto Freeroam.io.
 
 ### Cost? 
 
-This will incur ZERO monetary cost to the DAO; only action is necessary. Mass migration of listings to Freeroam will not only be done by DAO leadership, but is highly recommended to do so by Boss DAO holders and surrounding community as well. This will help to accelerate the [execution of our strategy](#Strategy-and-Execution).
+This will incur ZERO monetary cost to the DAO; only action is necessary. Mass migration of any listings to Freeroam will not only be done by DAO leadership, but is highly recommended to do so by Boss DAO holders and surrounding community as well. This will help to accelerate the [execution of our strategy](#Strategy-and-Execution).
 
 
 ### When?
