@@ -63,7 +63,7 @@ Even though this situation will be somewhat undesirable at first, we can come up
 
 1) Pausing after a partial surge in purchases will give outside sellers an opportunity to see where the liquidity is and move their listings over from other markets to Freeroam, which will keep our average entry price low.
 
-2) Transparency is a double edged sword. Letting all holders know when a vote is passed is noble, but some holders will still look to take advantage. Covert staggering and misdirection will discourage opportunists who plan to list lower than floor to "sell into the sweep". If sellers can't time when the DAO is spending that proposal's budget, they'll be discouraged to plan or time the sweep, and the price will behave more organically as it did before any proposal was approved.
+2) Transparency is a double edged sword. Letting all holders know when a vote is passed is noble, but a minority will still look to take advantage. Covert staggering and misdirection will discourage opportunists who plan to list lower than floor to "sell into the sweep". If sellers can't time when the DAO is spending that proposal's budget, they'll be discouraged to plan or time the sweep, and the price will behave more organically as it did before any proposal was approved.
 
 
 ### Conclusion:
