@@ -11,15 +11,19 @@ Online Identities (Sorted Alphabetically): AndrewJ, CardanoShield, FloridaCrypto
 Affiliation: Boss DAO \
 Roles: Holders
 
-## Proposal Summary
-Boss DAO has an opportunity to compound passive income and gain CNFT market-wide influence.
+##Proposal Summary
+Boss DAO has an opportunity to compound its passive income potential and gain market-wide influence over the CNFT as a whole.
 
 
-## Proposal Details
+##Proposal Details
 
 ### How? 
 
 By concentrating ALL of our DAO’s sales and purchases onto Freeroam.io.
+
+### Cost? 
+
+This will incur NO COST to the DAO; however, strong community engagement & understanding will help to accelerate the execution of our strategy, and thus will help accelerate the DAO's passive income. See [Strategy and Execution](#Strategy and Execution)below.
 
 
 ### When?
