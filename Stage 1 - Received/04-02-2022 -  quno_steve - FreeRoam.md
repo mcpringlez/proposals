@@ -15,7 +15,7 @@ Roles: Holders
 First and foremost, thank you for taking the time to read through this proposal. Simply, Boss DAO has an unprecendented opportunity to compound its passive income and gain market-wide influence over the CNFT market as a whole.
 
 
-## Proposal Details \
+## Proposal Details
 
 ### What and How? 
 
