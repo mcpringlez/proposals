@@ -20,7 +20,7 @@ Boss DAO has an opportunity to compound the value of its investment, for Free!
 
 ### How? 
 
-By concentrating ALL of Boss DAO’s CNFT sales and purchases on Freeroam.io.
+By concentrating ALL of our DAO’s sales and purchases to Freeroam.io.
 
 
 ### When?
