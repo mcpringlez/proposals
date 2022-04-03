@@ -40,12 +40,14 @@ After Freeroam launches, of course!
 
 2)  Psychological Snowball Effect -  Our bold statement combined with Freeroam's cutting edge innovations will play a factor in seller psychology and confidence during this stage. Folks who have their listings on other markets will start to wonder "What if I listed on Freeroam? Would this sell faster?" This curiosity will eventually entice sellers to move listings to marketplaces (like Freeroam) where they know certain buyers exclusively buy from. As more people catch on, FOMO will help snowball the movement and more folks will move their listings to Freeroam where WE ROAM. The cycle then FURTHER accelerates as we start approving proposals and start sweeping where we said we would. By then we should have at least rattled some cages and brought over a good market share, securing fat profits via passive income.
 
+3)  We're not alone - Boss DAO won't be alone in exclusively using Freeroam. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to favor? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
+
 
 ### Cons?
 
 1) One potential drawback to taking this approach would be missing out on lowest possible prices across ALL marketplaces during sweeps. This is one thing we noticed during some of our early sweeps on JPG.Store. We swept on JPG.store but CNFT.Io had lower prices after a few purchases and we missed out on 5-10% savings here and there.
 
-2) Even though this situation is undesirable, we can mitigate by temporarily pausing our sweeps to allow the sellers to move over from other markets or allow paperhands to list lower than floor after an abrupt rise, which will lower our average entry. Boss DAO won't be alone in exclusively using Freeroam. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to favor? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
+2) Even though this situation is undesirable, we can mitigate by temporarily pausing our sweeps to allow the sellers time to move over from other markets or allow paperhands to list lower than floor after an abrupt rise, which will lower our average entry price. 
 
 
 ### Conclusion:
