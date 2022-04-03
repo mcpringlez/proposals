@@ -17,13 +17,15 @@ First and foremost, thank you for taking the time to read through this proposal.
 
 ## Proposal Details
 
-### How? 
-
-By concentrating ALL of our DAO’s sales and purchases onto Freeroam.io.
 
 ### Cost? 
 
-This will incur ZERO monetary cost to the DAO; only action is necessary. Mass migration of any listings to Freeroam will not only be done by DAO leadership with access to the treasury, but is highly recommended to do so by Boss DAO holders and surrounding community as well. This will help to accelerate the [execution of our strategy](#Strategy-and-Execution).
+This will incur ZERO monetary cost to the DAO; only action is necessary.
+
+
+### How? 
+
+By concentrating ALL of our DAO’s sales and purchases onto Freeroam.io. Mass migration of any listings to Freeroam will not only be done by DAO leadership with access to the treasury, but is highly recommended to do so by Boss DAO holders and surrounding community as well. This will help to accelerate the [execution of our strategy](#Strategy-and-Execution).
 
 
 ### When?
