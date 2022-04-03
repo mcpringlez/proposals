@@ -8,7 +8,7 @@ Role: Holder
 
 
 ## Proposal Summary
-Boss DAO has an opportunity to compound passive income and gain CNFT market-wide influence through Freeroam.
+Boss DAO has an opportunity to compound passive income and gain CNFT market-wide influence.
 
 
 ## Proposal Details
