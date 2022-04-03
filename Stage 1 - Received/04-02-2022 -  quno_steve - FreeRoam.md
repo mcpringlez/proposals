@@ -45,7 +45,7 @@ After Freeroam launches, of course!
 
 1) One potential drawback to taking this approach would be missing out on lowest possible prices across ALL marketplaces during sweeps. This is one thing we noticed during some of our early sweeps on JPG.Store. We swept on JPG.store but CNFT.Io had lower prices after a few purchases and we missed out on 5-10% savings here and there.
 
-2) Even though the short term effect of this situation is somewhat undesirable, we have to weigh the short term impact against the long term gain here. Think about the loud message we’ll be sending to sellers over the long term. Boss DAO is not alone in this. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to favor? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
+2) Even though this situation is undesirable, we can mitigate by temporarily pausing our sweeps to allow the sellers to move over from other markets or allow paperhands to list lower than floor after an abrupt rise, which will lower our average entry. Boss DAO won't be alone in exclusively using Freeroam. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to favor? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
 
 
 ### Conclusion:
