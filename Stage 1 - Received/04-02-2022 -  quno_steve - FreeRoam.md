@@ -7,7 +7,7 @@ Affiliation: Boss DAO \
 Role: Holder
 
 Additional Authors/Contributors: \
-Online Identities (Sorted Alphabetically): AndrewJ, CardanoShield, FloridaCrypto, KC3i83, mcpringles, Nottorious CDG, stinghastie \
+Online Identities (Sorted A-Z): AndrewJ, CardanoShield, FloridaCrypto, KC3i83, mcpringles, Nottorious CDG, stinghastie \
 Affiliation: Boss DAO \
 Roles: Holders
 
@@ -19,7 +19,7 @@ First and foremost, thank you for taking the time to read through this proposal.
 
 ### What and How? 
 
-The passage of this proposal will pledge Boss DAO to move all current and future Boss DAO treasury listings, as well as conduct all future Boss DAO treasury sweeps and purchases exclusively onto the Freeroam.io marketplace. This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
+The passage of this proposal will pledge Boss DAO to move all current and future Boss DAO treasury listings, as well as conduct all future Boss DAO treasury sweeps and purchases exclusively on the Freeroam.io marketplace. This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
 
 
 ### Cost? 
@@ -59,19 +59,19 @@ This vote should take effect immediately after Freeroam.io launches, of course!
 One potential drawback to taking this approach would be missing out on lowest possible prices across ALL marketplaces during sweeps. This is one thing we noticed during some of our early sweeps on JPG.Store. We swept on JPG.store but CNFT.Io had lower prices after a few purchases and we missed out on 5-10% savings here and there.
 
 #### Solutions
-Even though this situation will be somewhat undesirable at first, we can come up with solutions to mitigate this. For example, one mitigation could potentialy be to  covertly and/or strategically pause or "stagger" our sweeps in an unpredictable manner to everyone outside the small team in control of the funds. This will provide 2 favorable market reactions: 
+Even though this situation will be somewhat undesirable at first, we can come up with solutions to mitigate this. For example, one mitigation could potentialy be to  covertly and/or strategically pause or "stagger" our sweeps in an unpredictable manner. This will provide 2 favorable market reactions: 
 
 1) Pausing after a partial surge in purchases will give outside sellers an opportunity to see where the liquidity is and move their listings over from other markets to Freeroam, which will keep our average entry price low.
 
-2) Transparency is a double edged sword. Letting all holders know when a vote is passed is noble, but some holders will still look to take advantage. Staggering and misdirection will confuse opportunists who plan to list lower than floor to "sell into the sweep". If sellers can't track when the DAO has expended that proposal's budget, they'll be discouraged to time the sweep, and the price will behave more as it did before the proposal was approved. \
+2) Transparency is a double edged sword. Letting all holders know when a vote is passed is noble, but some holders will still look to take advantage. Covert staggering and misdirection will discourage opportunists who plan to list lower than floor to "sell into the sweep". If sellers can't time when the DAO is spending that proposal's budget, they'll be discouraged to plan or time the sweep, and the price will behave more organically as it did before any proposal was approved.
 
 
 ### Conclusion:
 
-A lot of individual investors and DAOs (including us) invest in the future potential of individual NFT projects. What's unique about this proposal is it's less about an individual project and more about leveraging our influence as a DAO in altering the CNFT market as a whole. Maximizing our passive incom to the treasury is an added benefit. By voting YES for this proposal, not only will we choose accelerate our DAO’s growth, but we can gain a solid grasp on the future of this space. Time will favor this project-neutral “market-based” approach. Every DAO will soon wish they were the first to adopt this strategy.
+A lot of individual investors and DAOs (including us) invest in the future potential of individual NFT projects. What's unique about this proposal is it's less about an individual project and more about leveraging our influence as a DAO in altering the direction CNFT market as a whole. Maximizing our passive income to the treasury is an added benefit. By voting YES for this proposal, not only will we choose accelerate our DAO’s growth, but we can gain a solid grasp on the future of this space. Every DAO will soon wish they were the first to adopt this project-neutral “market-based” strategy.
 
 
-#### Reference files:
+#### Reference Material:
 
 Ghostchain & Freeroam Whitepaper 2.0:
 https://nftghostchain.com/documents/gcwp2.pdf
