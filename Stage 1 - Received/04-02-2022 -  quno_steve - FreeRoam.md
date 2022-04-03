@@ -19,17 +19,17 @@ First and foremost, thank you for taking the time to read through this proposal.
 
 ### What and How? 
 
-The passage of this proposal will pledge Boss DAO to move all current and future Boss DAO treasury listings, as well as conduct all future Boss DAO treasury sweeps and purchases exclusively onto the Freeroam.io marketplace. This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). \
+The passage of this proposal will pledge Boss DAO to move all current and future Boss DAO treasury listings, as well as conduct all future Boss DAO treasury sweeps and purchases exclusively onto the Freeroam.io marketplace. This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
 
 
 ### Cost? 
 
-This will incur ZERO monetary cost to the DAO; only action & communication is necessary. \
+This will incur ZERO monetary cost to the DAO; only action & communication is necessary. 
 
 
 ### When?
 
-This vote should take effect immediately after Freeroam.io launches, of course! \
+This vote should take effect immediately after Freeroam.io launches, of course! 
 
 
 ### Why?
@@ -40,7 +40,7 @@ This vote should take effect immediately after Freeroam.io launches, of course! 
 2) Maximizing Passive ADA - Our investment in Ghostchain NFTs means the more sales volume on Freeroam, the higher the amount of quarterly ADA is deposited into the Boss DAO treasury.
 
 
-3) Gain Influence by earning $SOUL Token. - BOSS DAO earns $SOUL token by Buying/Selling on Freeroam. $SOUL token is a deflationary token that will be used to vote on proposals on the Freeroam marketplace. Why is this so powerful? Our high volume buying power as a DAO will quickly allow us to gain a hefty bag of $SOUL, thus gaining massive influence in steering the future of the Freeroam marketplace. Of course decisions will primarily be made to benefit Freeroam, but as an early adopter and future member of the Freeroam Senate, decisions can also be heavily influenced in Boss DAO’s favor as well. \
+3) Gain Influence by earning $SOUL Token. - BOSS DAO earns $SOUL token by Buying/Selling on Freeroam. $SOUL token is a deflationary token that will be used to vote on proposals on the Freeroam marketplace. Why is this so powerful? Our high volume buying power as a DAO will quickly allow us to gain a hefty bag of $SOUL, thus gaining massive influence in steering the future of the Freeroam marketplace. Of course decisions will primarily be made to benefit Freeroam, but as an early adopter and future member of the Freeroam Senate, decisions can also be heavily influenced in Boss DAO’s favor as well. 
 
 
 ### Strategy and Execution
@@ -49,7 +49,7 @@ This vote should take effect immediately after Freeroam.io launches, of course! 
 
 2) We're not alone - Boss DAO won't be alone in exclusively using Freeroam. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to favor? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
 
-3) Psychological Snowball Effect -  Our bold statement combined with Freeroam's cutting edge innovations will play a factor in seller psychology and confidence during this stage. Folks who have their listings on other markets will start to wonder "What if I listed on Freeroam? Would this sell faster?" This curiosity will eventually entice sellers to move listings to Freeroam where they know certain buyers exclusively buy from. As more sellers catch on, FOMO will help snowball the movement and more folks will move their listings to Freeroam where WE ROAM. The cycle then FURTHER accelerates as we start approving proposals and start sweeping on the marketplace where we pledged to do so. By then we should have at least rattled some cages and brought over a good market share, securing some chunky passive ADA. \
+3) Psychological Snowball Effect -  Our bold statement combined with Freeroam's cutting edge innovations will play a factor in seller psychology and confidence during this stage. Folks who have their listings on other markets will start to wonder "What if I listed on Freeroam? Would this sell faster?" This curiosity will eventually entice sellers to move listings to Freeroam where they know certain buyers exclusively buy from. As more sellers catch on, FOMO will help snowball the movement and more folks will move their listings to Freeroam where WE ROAM. The cycle then FURTHER accelerates as we start approving proposals and start sweeping on the marketplace where we pledged to do so. By then we should have at least rattled some cages and brought over a good market share, securing some chunky passive ADA. 
 
 
 
