@@ -12,7 +12,7 @@ Affiliation: Boss DAO \
 Roles: Holders
 
 ## Proposal Summary
-First and foremost, thank you for taking the time to read through this unprecedented proposal. /
+First and foremost, thank you for taking the time to read through this unprecedented proposal. \
 Simply, Boss DAO has an opportunity to compound its passive income and gain market-wide influence over the CNFT market as a whole.
 
 
