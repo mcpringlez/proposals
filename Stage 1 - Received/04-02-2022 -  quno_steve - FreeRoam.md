@@ -63,7 +63,7 @@ Even though this situation will be somewhat undesirable at first, we can come up
 
 1) Pausing after a partial surge in purchases will give outside sellers an opportunity to see where the liquidity is and move their listings over from other markets to Freeroam, which will keep our average entry price low.
 
-2) Transparency is a double edged sword. Letting all holders know when a vote is passed is noble, but a minority will still look to take advantage. Covert staggering of purchases and covert misdirection will discourage opportunists who plan to list lower than floor to "sell into the sweep". If sellers can't time when the DAO is spending that proposal's budget, they'll be discouraged to plan or time the sweep, and the price will behave more organically as it did before any proposal was approved.
+2) Transparency is a double edged sword. Letting all holders know when a vote is passed is noble, but a minority will still look to take advantage. Erratic staggering of purchases and covert misdirection will discourage opportunists who plan to list lower than floor to "sell into the sweep". If sellers can't time when the DAO is spending that proposal's budget, they'll be discouraged to plan or time the sweep due to risk of getting wrecked. As an effect, the price will behave more organically as it did before any proposal was approved.
 
 #### Exception Threshold
 If this problem arises and we've exausted all strategies (pausing, staggering, etc) during the purchase of a specific asset, this proposal authorizes Boss DAO treasury to purchase the assets on a different marketplace once they meet or exceed a threshold of a 20% discount from Freeroam floor. This threshold can be amended via future proposals if we find that it proves to be too large or small.
