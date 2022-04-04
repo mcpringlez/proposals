@@ -19,7 +19,7 @@ First and foremost, thank you for taking the time to read through this proposal.
 
 ### What and How? 
 
-The passing of this proposal will require all Boss DAO current and future treasury listings, as well as all future Boss DAO treasury sweeps and purchases exclusively on the Freeroam.io marketplace, with [caveats](#Cons). This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
+The passing of this proposal will require all Boss DAO current and future treasury listings, as well as all future Boss DAO treasury sweeps and purchases exclusively on the Freeroam.io marketplace. Click [here](#Cons) to access the drawbacks, mitigations, and standard operating procedure on exceptions pertainikng to this exclusivity. This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
 
 
 ### Cost? 
@@ -65,7 +65,7 @@ Even though this situation will be somewhat undesirable at first, we can come up
 
 2) Transparency is a double edged sword. Letting all holders know when a vote is passed is noble, but a minority will still look to take advantage. Covert staggering and misdirection will discourage opportunists who plan to list lower than floor to "sell into the sweep". If sellers can't time when the DAO is spending that proposal's budget, they'll be discouraged to plan or time the sweep, and the price will behave more organically as it did before any proposal was approved.
 
-3) If the two solutions above still don't produce favorable market results, this proposal authorizes Boss DAO treasury fund operators to make a judgement call to purchase the assets on a different marketplace once they meet or exceed a threshold of a 15% discount from Freeroam floor.
+3) If solutions to mitigate this problem still don't produce favorable market results, this proposal authorizes Boss DAO treasury to purchase the assets on a different marketplace once they meet or exceed a threshold of a 15% discount from Freeroam floor.
 
 
 ### Conclusion:
