@@ -69,7 +69,7 @@ Even though this situation will be somewhat undesirable at first, we can come up
 If this problem arises and we've exausted all strategies (pausing, staggering, etc) during the purchase of a specific asset and it still doesn't resolve the price discrepancy, this proposal authorizes Boss DAO treasury to purchase the assets on a different marketplace once assets meet or exceed a threshold of a 20% discount from Freeroam floor. Of course the timing of these decisions will need to be kept private within the group who are actively purchasing so opportunistic insiders cannot take advantage. This threshold can be amended via future proposals if we find that it proves to be too large or small. 
 
 
-### Conclusion:
+## Conclusion:
 
 A lot of individual investors and DAOs (including us) invest in the future potential of individual NFT projects. What's unique about this proposal is it's less about an individual project and more about leveraging our influence as a DAO in steering the direction of the Cardano NFT market as a whole. Maximizing our passive income to the treasury is an added benefit. 
 
