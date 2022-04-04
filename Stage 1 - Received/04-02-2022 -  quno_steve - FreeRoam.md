@@ -19,7 +19,7 @@ First and foremost, thank you for taking the time to read through this proposal.
 
 ### What and How? 
 
-The passing of this proposal will require all Boss DAO current and future treasury listings, as well as all future Boss DAO treasury sweeps and purchases exclusively on the Freeroam.io marketplace. Click [here](#Cons) to access the risk, mitigations, and standard operating procedure for exceptions pertaining to this exclusivity. This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
+The passing of this proposal will require all Boss DAO current and future treasury listings, as well as all future Boss DAO treasury sweeps and purchases exclusively on the Freeroam.io marketplace. Click [here](#Cons) to access the risks, mitigations, and standard operating procedure for exceptions pertaining to this exclusivity. This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
 
 
 ### Cost? 
