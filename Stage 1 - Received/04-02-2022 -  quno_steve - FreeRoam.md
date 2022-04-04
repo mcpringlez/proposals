@@ -55,10 +55,10 @@ This proposal should be brought to vote after Freeroam.io launches, of course!
 
 ### Cons
 
-#### Problem
+#### Risks
 One risk of taking this approach would be missing out on lowest possible prices across ALL marketplaces during sweeps. This is one thing we noticed during some of our early sweeps on JPG.Store. We swept on JPG.store but CNFT.Io had lower prices after a few purchases and we missed out on 5-10% savings here and there.
 
-#### Solutions
+#### Mitigations
 Even though this situation will be somewhat undesirable at first, we can come up with solutions to mitigate this. For example, one mitigation could potentialy be to  covertly and/or strategically pause or "stagger" our sweeps in an unpredictable manner. This will provide 2 favorable market reactions: 
 
 1) Pausing after a partial surge in purchases will give outside sellers an opportunity to see where the liquidity is and move their listings over from other markets to Freeroam, which will keep our average entry price low.
