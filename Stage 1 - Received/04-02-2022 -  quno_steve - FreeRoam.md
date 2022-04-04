@@ -45,7 +45,7 @@ This proposal should be brought to vote after Freeroam.io launches, of course!
 
 ### Strategy and Execution
 
-1) First Mover Advantage - We're new, but don’t underestimate the power of our DAO’s influence. We have powerful allies & members with large followings. We can leverage that. Being the first DAO to make a splash like this and making it public will stick in people's minds. Others that try follow suit on different marketplaces won't resonate as loudly because we were the first to act. We have an opportunity to make a bold, yet beneficial decision like this that will at first baffle other DAOs and individual investors, but then will make sense once they understand why.
+1) First Mover Advantage - We're new, but don’t underestimate the power of our DAO’s influence. We have powerful allies & members with large followings. We can leverage that. Being the first DAO to make a splash like this and making it public will stick in people's minds. Others that try to follow suit on different marketplaces won't resonate as loudly because we were the first to act. We have an opportunity to make a bold, yet beneficial decision like this that will at first baffle other DAOs and individual investors, but then will make sense once they understand why.
 
 2) We won't stand alone - Boss DAO won't be alone in exclusively using Freeroam. We only own 40 of the 10,000 Ghostchain NFTs out there. Which marketplace do you think the owners of the other 9960 Ghostchain NFTs are going to favor? Even without owning a Ghostchain NFT, when folks get used to earning the deflationary $SOUL token just by buying and selling on Freeroam, it won’t be long until people will regret spending their time or ADA on ANY other marketplace.
 
