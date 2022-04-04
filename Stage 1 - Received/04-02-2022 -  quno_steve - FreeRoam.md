@@ -7,7 +7,7 @@ Affiliation: Boss DAO \
 Role: Holder
 
 Additional Authors/Contributors: \
-Online Identities (Sorted A-Z): AndrewJ, CardanoShield, FloridaCrypto, KC3i83, mcpringles, Nottorious CDG, stinghastie \
+Online Identities (Sorted A-Z): AndrewJ, CardanoShield, FloridaCrypto, KC3i83, mcpringles, Notorious CDG, stinghastie \
 Affiliation: Boss DAO \
 Roles: Holders
 
