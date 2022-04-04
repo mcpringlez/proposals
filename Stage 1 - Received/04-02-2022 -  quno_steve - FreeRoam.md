@@ -65,7 +65,8 @@ Even though this situation will be somewhat undesirable at first, we can come up
 
 2) Transparency is a double edged sword. Letting all holders know when a vote is passed is noble, but a minority will still look to take advantage. Covert staggering and misdirection will discourage opportunists who plan to list lower than floor to "sell into the sweep". If sellers can't time when the DAO is spending that proposal's budget, they'll be discouraged to plan or time the sweep, and the price will behave more organically as it did before any proposal was approved.
 
-3) If solutions to mitigate this problem still don't produce favorable market results, this proposal authorizes Boss DAO treasury to purchase the assets on a different marketplace once they meet or exceed a threshold of a 15% discount from Freeroam floor.
+#### Exception Threshold
+If solutions to mitigate this problem still don't produce favorable market results during the execution of the purchase of a specific asset, this proposal authorizes Boss DAO treasury to purchase the assets on a different marketplace once they meet or exceed a threshold of a 15% discount from Freeroam floor.
 
 
 ### Conclusion:
