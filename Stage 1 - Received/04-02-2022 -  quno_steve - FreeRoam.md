@@ -40,7 +40,7 @@ This proposal should be brought to vote after Freeroam.io launches, of course!
 2) Maximizing Passive ADA - Our investment in Ghostchain NFTs means the more sales volume on Freeroam, the higher the amount of quarterly ADA is deposited into the Boss DAO treasury.
 
 
-3) Gain Influence by earning $SOUL Token. - BOSS DAO earns $SOUL token by Buying/Selling on Freeroam. $SOUL token is a deflationary token ([tokenomics can be found on this whitepaper](#Reference-Material)) that will be used to vote on proposals on the Freeroam marketplace. Why is this so powerful? Our high volume buying power as a DAO will quickly allow us to gain a hefty bag of $SOUL, thus gaining massive influence in steering the future of the Freeroam marketplace. Of course decisions will primarily be made to benefit Freeroam, but as an early adopter and future member of the Freeroam Senate, decisions can also be heavily influenced in Boss DAO’s favor as well. 
+3) Gain Influence by earning $SOUL Token. - BOSS DAO earns $SOUL token by Buying/Selling on Freeroam. $SOUL token is a deflationary token ([tokenomics can be found on this whitepaper](#Reference-Material)) that will be used to vote on proposals on the Freeroam marketplace. Why is this so powerful? Our high volume buying power as a DAO will quickly allow us to gain a hefty bag of $SOUL, thus gaining massive influence in steering the future of the Freeroam marketplace. Of course decisions using $SOUL will primarily be made to benefit Freeroam, but as an early adopter and future member of the Freeroam Senate, decisions can also be heavily influenced in Boss DAO’s favor as well. 
 
 
 ### Strategy and Execution
