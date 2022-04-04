@@ -75,10 +75,10 @@ A lot of individual investors and DAOs (including us) invest in the future poten
 
 By voting YES for this proposal, not only will we choose to accelerate our DAO’s monetary growth, but we make a power play for increased influence over the future of the Cardano NFT space. Similar to BCRC's quick ascension in the Cardano NFT space, the successful execution of this project-neutral & macro-focused strategy will send shockwaves through the Cardano NFT space. Other DAOs will soon be kicking themselves for not thinking of it first (brace yourself for FUD stemmed from jealousy) when our bold strategy finds success.
 
-Buckle up, be proactive, & be resilient. Be the BOSS.
+##### Buckle up, be proactive, & be resilient. Be the BOSS.
 
 
-#### Reference Material:
+### Reference Material:
 
 Ghostchain & Freeroam Whitepaper 2.0:
 https://nftghostchain.com/documents/gcwp2.pdf
