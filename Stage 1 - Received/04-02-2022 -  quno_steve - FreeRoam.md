@@ -71,7 +71,7 @@ If this problem arises and we've exausted all strategies (pausing, staggering, e
 
 ### Conclusion:
 
-A lot of individual investors and DAOs (including us) invest in the future potential of individual NFT projects. What's unique about this proposal is it's less about an individual project and more about leveraging our influence as a DAO in altering the direction CNFT market as a whole. Maximizing our passive income to the treasury is an added benefit. By voting YES for this proposal, not only will we choose accelerate our DAO’s growth, but we can gain a solid grasp on the future of this space. Similar to BCRC's huge impact on CNFTs, other DAOs will soon be quietly kicking themselves (but probably publicly FUD & discredit us) when our project-neutral “market-focused” strategy was right in front of everyone but WE were the first to take action. 
+A lot of individual investors and DAOs (including us) invest in the future potential of individual NFT projects. What's unique about this proposal is it's less about an individual project and more about leveraging our influence as a DAO in altering the direction of the CNFT market as a whole. Maximizing our passive income to the treasury is an added benefit. By voting YES for this proposal, not only will we choose accelerate our DAO’s growth, but we can gain a solid grasp on the future of this space. Similar to BCRC's huge impact on CNFTs, other DAOs will soon be quietly kicking themselves (but probably publicly FUD & discredit us) when our project-neutral “market-focused” strategy was right in front of everyone but WE were the first to take action. 
 
 Buckle up, be proactive, & be resilient.
 
