@@ -19,7 +19,7 @@ First and foremost, thank you for taking the time to read through this proposal.
 
 ### What and How? 
 
-The passing of this proposal will require all Boss DAO current and future treasury listings, as well as all future Boss DAO treasury sweeps and purchases exclusively on the Freeroam.io marketplace, with [caveats](#Cons?). This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
+The passing of this proposal will require all Boss DAO current and future treasury listings, as well as all future Boss DAO treasury sweeps and purchases exclusively on the Freeroam.io marketplace, with [caveats](#Cons). This proposal also strongly encourages Boss DAO holders and surrounding community members to do the same as this will help to accelerate the [execution of our passive income strategy](#Strategy-and-Execution). 
 
 
 ### Cost? 
@@ -53,7 +53,7 @@ This proposal should be brought to vote after Freeroam.io launches, of course!
 
 
 
-### Cons?
+### Cons
 
 #### Problem
 One potential drawback to taking this approach would be missing out on lowest possible prices across ALL marketplaces during sweeps. This is one thing we noticed during some of our early sweeps on JPG.Store. We swept on JPG.store but CNFT.Io had lower prices after a few purchases and we missed out on 5-10% savings here and there.
