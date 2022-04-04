@@ -24,7 +24,7 @@ The passing of this proposal will require all Boss DAO current and future treasu
 
 ### Cost? 
 
-This will incur ZERO monetary cost to the DAO; only action & communication is necessary. 
+This will incur ZERO monetary cost to the DAO; only action & communication are necessary. 
 
 
 ### When?
