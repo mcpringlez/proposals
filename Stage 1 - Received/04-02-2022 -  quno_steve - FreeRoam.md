@@ -73,7 +73,7 @@ If this problem arises and we've exausted all strategies (pausing, staggering, e
 
 A lot of individual investors and DAOs (including us) invest in the future potential of individual NFT projects. What's unique about this proposal is it's less about an individual project and more about leveraging our influence as a DAO in steering the direction of the Cardano NFT market as a whole. Maximizing our passive income to the treasury is an added benefit. 
 
-By voting YES for this proposal, not only will we choose to accelerate our DAO’s monetary growth, but we make a power play for increased influence over the future of the Cardano NFT space. Similar to BCRC's quick ascension in the Cardano NFT space, the successful execution of this project-neutral & macro-focused strategy will send shockwaves through the Cardano NFT space. Other DAOs will soon be kicking themselves for not thinking of it first (brace yourself for jealousy FUD) when our bold strategy finds success.
+By voting YES for this proposal, not only will we choose to accelerate our DAO’s monetary growth, but we make a power play for increased influence over the future of the Cardano NFT market space. Similar to BCRC's quick ascension in Cardano NFTs, the successful execution of this project-neutral & macro-focused strategy will send shockwaves through the Cardano NFT space. Other DAOs will soon be kicking themselves for not thinking of it first (brace yourself for jealousy FUD) when our bold strategy finds success.
 
 Buckle up, be proactive, & be resilient. Be the BOSS.
 
