@@ -29,7 +29,7 @@ This will incur ZERO monetary cost to the DAO; only action & communication is ne
 
 ### When?
 
-This vote should take effect immediately after Freeroam.io launches, of course! 
+This proposal should be brought to vote after Freeroam.io launches, of course! 
 
 
 ### Why?
